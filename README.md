@@ -2,6 +2,8 @@
 
 [![DOI](https://zenodo.org/badge/448891878.svg)](https://zenodo.org/badge/latestdoi/448891878)
 
+GgSANDnet: A neural network tool for prediction of shear stiffness (G) shear strain (g) relationship for sands
+
 J A Charles, University of Southampton, j.a.charles@southampton.ac.uk, https://orcid.org/0000-0002-2256-3846
 
 This app uses a neural network to generate a shear stiffness degradation curve (representing how soil reduces in stiffness as a function of strain) with an arbitrary number and combination of input parameters. Traditional empirical methods required set inputs with the engineer being unable to utilise these methods if the required parameters are not available. This app allows the user to select and input between zero and eight of the following parameters:
